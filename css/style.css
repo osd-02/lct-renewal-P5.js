@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  padding: 50px;
+}
+div {
+  color: rgb(240,240,100);
+}
+
+div#wrapper {
+  height: 100%;
+}
+div#article {
+  padding: 50px;
+  height: 50%;
+  width: 100%;
+}
